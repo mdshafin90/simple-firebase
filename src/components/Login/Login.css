@@ -1,0 +1,30 @@
+.log-out-btn {
+    background-color: crimson;
+    color: white;
+    border: none;
+    transition: all 0.25s;
+    border-radius: 30px;
+}
+
+.log-out-btn:hover {
+    background-color: black;
+    color: white;
+    box-shadow: 0 0.25em 0.25em 0.25em crimson;
+    transform: translateY(-0.25em);
+}
+
+.log-in-btn {
+    background-color: crimson;
+    color: white;
+    border: none;
+    margin: 20px;
+    transition: all 0.25s;
+    border-radius: 30px;
+}
+
+.log-in-btn:hover {
+    background-color: black;
+    color: white;
+    box-shadow: 0 0.25em 0.25em 0.25em crimson;
+    transform: translateY(-0.25em);
+}
